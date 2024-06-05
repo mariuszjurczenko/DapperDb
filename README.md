@@ -13,3 +13,5 @@ Lekkość: Dapper jest mikro-ORMem, co oznacza, że ma niewielki wpływ na wydaj
 Ograniczona funkcjonalność: Dapper nie posiada niektórych zaawansowanych funkcji tradycyjnych ORM-ów, takich jak automatyczne generowanie bazy danych.
 Większa odpowiedzialność programisty: Programista musi napisać więcej kodu w porównaniu do tradycyjnych ORM-ów.
 W tym poście zgłębimy szczegóły dotyczące Dappera i pokażemy, jak zaimplementować pełny CRUD w aplikacji .NET za pomocą tego wydajnego mikro-ORM-a.
+
+cały wpis na blogu : https://dev-hobby.pl/csharp/budowanie-api-crud-za-pomoca-dappera/
